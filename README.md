@@ -1,6 +1,5 @@
 ## Hiking Project App Review Sentiment Analysis
-![](image_hiking_project\hiking_project_logo.png)
-![](image_hiking_project/Hiking_project_dataframe.PNG)
+![](image_hiking_project/hiking_project_logo.png)
 
 ### Introduction
 Welcome to the Hiking Project App Review Sentiment Analysis project! This repository contains the code and analysis for performing sentiment analysis on user reviews of the Hiking Project app. Hiking Project is a popular mobile application designed for outdoor enthusiasts and hikers to discover and plan their hiking adventures. Understanding user sentiments and feedback is crucial for app developers to enhance the user experience and address any issues or concerns.
@@ -10,7 +9,7 @@ The primary objective of this project is to analyze the sentiment of user review
 
 Gain insights into user satisfaction and dissatisfaction with the app.
 - Identify common issues or pain points raised by users.
-- Evaluate how positive or negative sentiments have evolved.
+- Evaluate how positive or negative sentiments have evolved over time.
 - Provide actionable recommendations for app developers to improve the user experience.
 
 Through this analysis, we aim to help the development team make data-driven decisions and prioritize areas for app enhancement, ultimately leading to a more user-friendly and enjoyable Hiking Project app.
@@ -22,3 +21,13 @@ Google Play Store: I collected a dataset of user reviews from the Google Play St
 The dataset obtained from the Google Play Store will serve as the foundation for our analysis. We have cleaned and processed the data to make it suitable for sentiment analysis. You can find the dataset used in this project in the 'data' directory of this repository.
 
 Feel free to explore the code and analysis provided here, and please don't hesitate to reach out if you have any questions or suggestions.
+
+
+
+![](image_hiking_project/Hiking_project_dataframe.PNG)
+![](image_hiking_project/scraping_google_play_reviews.PNG)
+![](image_hiking_project/sentiment_count.PNG)
+![](image_hiking_project/sentiment_report.PNG)
+![](image_hiking_project/word_cloud.PNG)
+![](image_hiking_project/Hiking_project_json.PNG)
+![](image_hiking_project/Negative_Positive_over_time.PNG)
