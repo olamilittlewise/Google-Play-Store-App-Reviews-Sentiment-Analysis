@@ -1,5 +1,6 @@
 ## Hiking Project App Review Sentiment Analysis
-![]()
+![](image_hiking_project\hiking_project_logo.png)
+![](image_hiking_project/Hiking_project_dataframe.PNG)
 
 ### Introduction
 Welcome to the Hiking Project App Review Sentiment Analysis project! This repository contains the code and analysis for performing sentiment analysis on user reviews of the Hiking Project app. Hiking Project is a popular mobile application designed for outdoor enthusiasts and hikers to discover and plan their hiking adventures. Understanding user sentiments and feedback is crucial for app developers to enhance the user experience and address any issues or concerns.
